@@ -1,1 +1,3 @@
-all clear shubei
+>>>>>>> 3c4c66d8f4c16101d87a934b0a9ee4cef16b1054
+fuck 
+clear all shubei
